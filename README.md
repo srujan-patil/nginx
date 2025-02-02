@@ -167,13 +167,6 @@ server {
 
 🔥 Enjoy using Nginx! If this guide helped you, give it a ⭐ on GitHub! 🚀✨
 
-## How to Use This File
-- Copy the entire content above.
-- Create a new repository on GitHub.
-- Add a `README.md` file.
-- Paste the copied content and commit!
-
-This `README.md` is GitHub-ready, well-structured, and formatted for readability. Let me know if you need any tweaks! 🚀
 
 ## ⚙️ Start, Stop & Reload  
 
